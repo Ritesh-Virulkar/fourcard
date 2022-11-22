@@ -69,7 +69,6 @@ body {
   background-color: #fff;
   padding: 1.5rem;
   border-radius: 0.5rem;
-
   max-width: 350px;
   height: 250px;
   box-shadow: 0rem 0.2rem 1rem rgba(0, 0, 0, 0.3);
@@ -98,6 +97,8 @@ body {
 }
 .card .img-container {
   text-align: right;
+    margin-bottom: 0.5rem;
+
 }
 
 /* media queries */
